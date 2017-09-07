@@ -4,6 +4,7 @@
 3. GR.m is the program for GR calculation of each single rank list
 4. endeavour.R is the integration of updated single rank lists into a integrated rank list
 5. The Robust rank aggregation integraion is implemented by 'aggregateRanks' command  from the package of http://cran.r-project.org/web/packages/RobustRankAggreg/index.html
+5. web_app.pl is used automatically submit input to a web application and collect the return resutls
 
 
 
